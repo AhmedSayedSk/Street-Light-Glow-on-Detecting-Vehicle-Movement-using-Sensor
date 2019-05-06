@@ -13,6 +13,8 @@ This is an energy efficient method of controlling the street lights by detecting
 The set of IR sensors are placed on the roads to detect the vehicle movement.
 The sensed data is processed in the microcontroller and accordingly it switches the street lights.
 
-![Demo image 1](/images/Street-Light-that-Glows-on-Detecting-Vehicle-Movement.jpg)
-![Demo image 2](/images/streetLight-project.jpg)
-![Demo image 2](/images/Street-Light-that-Glows-on-Detecting-Vehicle-Movement-Image-4-760x440.jpg)
+<p align="center">
+  <img src="/images/Street-Light-that-Glows-on-Detecting-Vehicle-Movement.jpg" width="350" title="Demo image 1">
+  <img src="/images/streetLight-project.jpg" width="350" alt="Demo image 2">
+  <img src="/images/Street-Light-that-Glows-on-Detecting-Vehicle-Movement-Image-4-760x440.jpg" width="350" alt="Demo image 3">
+</p>
