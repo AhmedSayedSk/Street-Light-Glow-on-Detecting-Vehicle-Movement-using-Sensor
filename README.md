@@ -1,11 +1,9 @@
 # Street Light Glow on Detecting Vehicle Movement using Sensor
----
 
-Author:
+Author
 ----
 Ahmed Sayed Ahmed
 
----
 
 Project description
 ----
