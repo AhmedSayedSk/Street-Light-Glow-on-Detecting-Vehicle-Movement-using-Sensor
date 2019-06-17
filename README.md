@@ -33,7 +33,15 @@ The project was implemented using signal transmission sensors, transduers, batte
 
 <h3>Demo videos</h3>
 <ul>
-	<li><a href="#">Video 1</a></li>
-	<li><a href="#">Video 2</a></li>
-	<li><a href="#">Video 3</a></li>
+	<li><a href="https://youtu.be/OkANlaZHdAI">Video 1</a></li>
+	<li><a href="https://youtu.be/deRINM9Hk58">Video 2</a></li>
+</ul>
+
+Project components
+----
+<ul>
+	<ol>Arduino ino</ol>
+	<ol>12 IR Sensors</ol>
+	<ol>12 Light leds</ol>
+	<ol>6 transistors</ol>
 </ul>
