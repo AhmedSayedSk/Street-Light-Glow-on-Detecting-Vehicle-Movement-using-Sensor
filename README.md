@@ -29,13 +29,11 @@ The project was implemented using signal transmission sensors, transduers, batte
 <p align="center">
   <img src="/images/1.jpg" width="350" alt="image 1">
   <img src="/images/2.jpg" width="350" alt="image 2">
-  <img src="/images/3.jpg" width="350" title="image 3">
 </p>
 
 <h3>Demo videos</h3>
-
-<iframe width="420" height="315" src="/videos/1.mp4"></iframe>
-
-[![Demo 1](https://i.imgur.com/vKb2F1B.png)](/videos/1.mp4)
-[![Demo 2](https://i.imgur.com/vKb2F1B.png)](/videos/2.mp4)
-[![Demo 3](https://i.imgur.com/vKb2F1B.png)](/videos/3.mp4)
+<ul>
+	<li><a href="#">Video 1</a></li>
+	<li><a href="#">Video 2</a></li>
+	<li><a href="#">Video 3</a></li>
+</ul>
